@@ -1,0 +1,4 @@
+streamlit
+poltly
+pyserial
+pandas
