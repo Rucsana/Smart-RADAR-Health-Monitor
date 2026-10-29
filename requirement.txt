@@ -1,4 +1,0 @@
-streamlit
-poltly
-pyserial
-pandas
